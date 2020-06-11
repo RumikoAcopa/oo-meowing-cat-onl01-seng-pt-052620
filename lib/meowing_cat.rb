@@ -1,5 +1,5 @@
 class Cat
-    attr_accessor :meowing_cat
+    # attr_accessor :meowing_cat
     attr_accessor :name
 end
 
@@ -7,7 +7,8 @@ end
   maru.name = "Maru"
   puts maru.name
 
-  maru.meowing_cat = "meow"
+  def meowing_cat
+    maru.meow = "meow"
   puts maru.meow
 
   # let(:maru) {Cat.new}# code your solution here.
