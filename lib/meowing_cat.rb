@@ -1,5 +1,5 @@
-Class Cat
-end
+class Cat
+
 def name=(cat_name)
   @this_cats_name = cat_name
 end
