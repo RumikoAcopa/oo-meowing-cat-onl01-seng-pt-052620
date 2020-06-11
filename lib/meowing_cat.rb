@@ -11,5 +11,6 @@ class Cat
 end
   maru = Cat.new
   maru.name = "maru"
+  puts maru.name
 
-  puts maru.name# let(:maru) {Cat.new}# code your solution here.
+  maru.meow = "meow"# let(:maru) {Cat.new}# code your solution here.
