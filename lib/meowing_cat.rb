@@ -13,4 +13,5 @@ end
   maru.name = "maru"
   puts maru.name
 
-  maru.meow = "meow"# let(:maru) {Cat.new}# code your solution here.
+  maru.meow = "meow"
+  puts maru.meow# let(:maru) {Cat.new}# code your solution here.
