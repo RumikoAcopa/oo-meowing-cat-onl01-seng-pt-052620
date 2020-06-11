@@ -10,4 +10,4 @@ end
   maru = Cat.new
   maru.name = "maru"
 
-  puts maru.name# let(:maru) {Cat.new}# code your solution here. 
+  puts maru.name# let(:maru) {Cat.new}# code your solution here.
