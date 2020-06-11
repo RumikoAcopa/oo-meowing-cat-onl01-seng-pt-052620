@@ -1,8 +1,8 @@
 class Cat
 
-def name=(cat_name)
-  @this_cats_name = cat_name
-end
+  class Person
+    attr_accessor :name
+	 end
 
     def name
       @this_cats_name
