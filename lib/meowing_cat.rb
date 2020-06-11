@@ -7,7 +7,7 @@ end
   maru.name = "maru"
   puts maru.name
 
-  maru.meow = "meow"
+  maru.meowing_cat = "meow"
   puts maru.meow
 
   # let(:maru) {Cat.new}# code your solution here.
