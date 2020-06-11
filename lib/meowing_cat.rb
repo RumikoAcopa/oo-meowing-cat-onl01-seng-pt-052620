@@ -10,11 +10,7 @@ end
   maru = Cat.new
   maru.name = "Maru"
   puts maru.name
-
-
-
-    maru.meow = "meow"
-  end
+  maru.meow
 
 
   # let(:maru) {Cat.new}# code your solution here.
