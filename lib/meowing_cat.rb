@@ -1,6 +1,5 @@
 class Cat
     attr_accessor :meowing_cat
-	 end
 
     attr_accessor :name
     end
