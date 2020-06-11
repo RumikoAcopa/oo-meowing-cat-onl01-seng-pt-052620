@@ -2,7 +2,6 @@ class Cat
     attr_accessor :meowing_cat
     attr_accessor :name
     end
-
   end
   maru = Cat.new
   maru.name = "maru"
