@@ -2,13 +2,13 @@ class Cat
     attr_accessor :meowing_cat
 	 end
 
-    def name
-      @this_cats_name
+    attr_accessor :name
     end
 
     def meow
       puts "meow"
-end
+    end
+    
   maru = Cat.new
   maru.name = "maru"
   puts maru.name
