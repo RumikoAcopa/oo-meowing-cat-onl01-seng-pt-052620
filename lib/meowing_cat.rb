@@ -1,6 +1,4 @@
 class Cat
-
-  class Person
     attr_accessor :meowing_cat
 	 end
 
