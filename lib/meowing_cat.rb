@@ -8,4 +8,6 @@ end
   puts maru.name
 
   maru.meow = "meow"
-  puts maru.meow# let(:maru) {Cat.new}# code your solution here.
+  puts maru.meow
+
+  # let(:maru) {Cat.new}# code your solution here.
