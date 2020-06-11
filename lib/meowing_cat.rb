@@ -9,6 +9,7 @@ end
 
   def meowing_cat
     maru.meow = "meow"
+  end
   puts maru.meow
 
   # let(:maru) {Cat.new}# code your solution here.
