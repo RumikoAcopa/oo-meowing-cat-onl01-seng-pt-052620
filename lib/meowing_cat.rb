@@ -4,7 +4,7 @@ class Cat
 end
 
   maru = Cat.new
-  maru.name = "maru"
+  maru.name = "Maru"
   puts maru.name
 
   maru.meowing_cat = "meow"
