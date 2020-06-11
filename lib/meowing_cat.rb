@@ -1,7 +1,7 @@
 class Cat
 
   class Person
-    attr_accessor :name
+    attr_accessor :meowing_cat
 	 end
 
     def name
